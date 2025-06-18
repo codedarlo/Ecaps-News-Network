@@ -1,0 +1,6 @@
+com\enn\UrlArticleExtraction.class
+com\enn\EcapsNewsNetwork.class
+com\enn\Summarizer.class
+com\enn\CredibilityScanner.class
+com\enn\CopyContent.class
+com\enn\TextArticleExtraction.class
